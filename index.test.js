@@ -1,4 +1,4 @@
-const  { convertTimeToWords } = require('./index');
+const { convertTimeToWords } = require('./index');
 
 describe('Time to words', () => {
   it('Handles midnight', () => {
